@@ -8,10 +8,6 @@
  *
  */
 
-install make dep
-language c 
-script make && make test
-
 #include <stdbool.h>
 
 /* 2D Coordinate Struct */
